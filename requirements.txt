@@ -1,0 +1,8 @@
+crewai 
+crewai-tools 
+chonkie[semantic] 
+markitdown 
+qdrant-client 
+fastembed
+streamlit
+python-dotenv
